@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshaqamar6" alt="ayeshaqamar6" /></a> </p>
 
-- 🔭 I’m currently working on [Truth Lens](https://github.com/AyeshaQamar6/Ms-TruthLens)
-
-- 🌱 I’m currently learning **AI techniques like NLP, LLM, HuggingFace etc**
+- 🌱 I’m currently learning and working on **AI techniques like NLP, LLM, HuggingFace etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyeshaQamar6](https://github.com/AyeshaQamar6)
 
